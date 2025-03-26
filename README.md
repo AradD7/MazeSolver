@@ -1,3 +1,3 @@
 # MazeSolver
 ## A boot.dev guided project!
-Maze solver using python
+Building a maze solver with python
