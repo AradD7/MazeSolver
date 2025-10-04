@@ -126,8 +126,8 @@ python3 -m unittest discover -s src
 ## Screenshots
 
 <p align="center">
-  <img src="screenshot/MazeSolver-1.png" width="45%" />
-  <img src="screenshot/MazeSolver-2.png" width="45%" />
+  <img src="screenshots/MazeSolver-1.png" width="45%" />
+  <img src="screenshots/MazeSolver-2.png" width="45%" />
 </p>
 
 ---
